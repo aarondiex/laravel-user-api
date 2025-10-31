@@ -1,0 +1,37 @@
+# Laravel / PHP
+/vendor
+/node_modules
+/public/storage
+/storage/*.key
+/.idea
+/.vscode
+/.env
+/.env.*.backup
+Homestead.yaml
+Homestead.json
+/.phpunit.result.cache
+
+# Composer
+composer.lock
+
+# NPM / Yarn
+package-lock.json
+yarn.lock
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+*.log
+*.cache
+
+# Laravel Mix / Build
+/public/hot
+/public/mix-manifest.json
+/public/js
+/public/css
+/public/fonts
+/public/images
+
+# Debug / IDE
+.phpunit.result.cache
+.phpstorm.meta.php
