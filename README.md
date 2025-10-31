@@ -136,5 +136,3 @@ Response: `201 Created`
 ## License
 
 This project is **open source** and available under the [MIT License](LICENSE).
-
-```
