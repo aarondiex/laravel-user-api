@@ -119,8 +119,8 @@ Response: `201 Created`
   "height": 193.24,
   "weight": 63.16,
   "role": "admin",
-  "created_at": "2025-10-31T12:00:00.000000Z",
-  "updated_at": "2025-10-31T12:00:00.000000Z"
+  "created_at": null,
+  "updated_at": null
 }
 ```
 
